@@ -4304,7 +4304,7 @@ describe('SmartCalculator', () => {
   
     assert.equal(value, 74);
   });
-  
+
   it('306', () => {
   
     const calculator = new SmartCalculator(7);
